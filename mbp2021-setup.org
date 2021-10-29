@@ -16,7 +16,11 @@
    - Zsh and ohmyzsh: follow the command line prompts
    - Home-brew: easy install follow the command line prompts
    - Emacs (mainly for org mode) with Spacemacs
+   
      brew install emacs
+     
      delete existing .emacs.d/ folder
+     
      clone spacemacs folder
+     
      remap option key to be esc+ for meta key functionality
