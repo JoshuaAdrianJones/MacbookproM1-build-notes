@@ -27,3 +27,6 @@
      clone spacemacs folder
      
      remap option key to be esc+ for meta key functionality
+
+   - Firefox (main browser)
+   - Chrome (for chromecast and some dev tools
